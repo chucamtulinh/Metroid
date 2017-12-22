@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="16" tilewidth="32" tileheight="32" nextobjectid="50">
+ <tileset firstgid="1" name="mariotileset" tilewidth="32" tileheight="32" tilecount="924" columns="33">
+  <image source="Resources/mariotileset.png" width="1056" height="896"/>
+ </tileset>
+ <layer name="background" width="50" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztlMENwjAMRZ0yAXACxkAFibIB3BBbwJVNgE2A8fhRiWQi25AcUCJh6R8aJ/b7cVsiosmAaArNoJpjBf4OWgs+avQoMVseSw3OrM3Bms+5IbpA1yafIdTIqZMyB2s+N/S9Qw+lP2fUOEMNq44Wv3p3OGMOZ2rU+G1Loc1H8leLZ84p+avlfxZzlnz/MZvFWsr9bxzR1r2vxWwlzEDi5HFA7hjld3g+QXvl3KcZjIx+qXwWp5Yfut7D/OXD8uKjRW7BtHR9DX9+LJxr2b5v+aR9bdST50N/v/xXOXoChb0sUg==
+  </data>
+ </layer>
+</map>

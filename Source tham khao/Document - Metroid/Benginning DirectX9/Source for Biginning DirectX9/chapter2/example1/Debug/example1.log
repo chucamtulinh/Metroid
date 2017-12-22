@@ -1,0 +1,4 @@
+﻿  winmain.cpp
+winmain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  example1.vcxproj -> D:\HocHanh\Game\Document - Metroid\Source for Biginning DirectX9\chapter2\example1\Debug\example1.exe
+  example1.vcxproj -> Debug\example1.pdb (Full PDB)
